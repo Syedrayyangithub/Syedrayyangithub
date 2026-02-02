@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Syed Rayyan Hussain</h1>
-<h3 align="center">Software Engineering Student | AI Explorer | Full-Stack Developer</h3>
+<h1 align="center">Syed Rayyan Hussain</h1>
+<h3 align="center">Software Engineering Student | Solutions Architect (AI) | Full-Stack Developer</h3>
 
 <p align="center">
   I love building intelligent systems, scalable web apps, and projects that blend AI with real-world impact.
