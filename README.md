@@ -93,14 +93,6 @@ I enjoy building projects that sound impossible at first… and then somehow mak
 ![](https://nirzak-streak-stats.vercel.app/?user=Syedrayyangithub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syedrayyangithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 ---
 
-## 👀 Profile Views
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Syedrayyangithub&icon=5&color=6" />
-</p>
-
----
-
-⭐️ *Always building. Always learning. Always curious.*
+*Always building. Always learning. Always curious.*
