@@ -25,7 +25,7 @@ Deep Learning, scalable backend systems, and high-performance application design
 Java, Python, Web Development, AI project ideas, and turning concepts into real working products.
 
 ⚡ **Fun Fact:**  
-I enjoy building projects that sound impossible at first… and then somehow making them work.
+I enjoy building projects that sound impossible at first and then somehow making them work.
 
 ---
 
