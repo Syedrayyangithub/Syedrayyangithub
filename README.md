@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Solutions Architect (AI) | Full-Stack Developer</h3>
 
 <p align="center">
-  I'm into building intelligent systems, scalable web apps, and projects that blend AI with real-world impact.
+  I build intelligent systems, scalable web apps, and projects that blend AI with real-world impact.
 </p>
 
 ---
